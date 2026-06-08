@@ -10,6 +10,8 @@
 
 [ThermoSpec](https://github.com/joat21/ThermoSpec) — B2B-система для интеграции, нормализации и поиска данных из каталогов инженерного оборудования.
 
+<br/>
+
 📌 **Последние проекты**
 - [ServiceDesk](https://github.com/joat21/ServiceDesk) — корпоративный портал автоматизации внутренних обращений
 - [Alfa Telecom](https://github.com/joat21/AlfaTelecom) — биллинговая система оператора связи
