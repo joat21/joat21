@@ -1,6 +1,6 @@
 ## Привет 👋
 
-### Я **frontend-разработчик** из Екатеринбурга. Основной стек — React и TypeScript.
+### Я **Frontend/Fullstack-разработчик** из Екатеринбурга. Основной стек — React и TypeScript.
 
 ⚡ [Резюме](https://ekaterinburg.hh.ru/resume/655f6b5dff108189b90039ed1f6c394a69354e)
 
